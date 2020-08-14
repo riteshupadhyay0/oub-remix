@@ -200,7 +200,7 @@ async def amireallyalive(alive):
              f"`i am ᗩᒪᓰᐺᘿ My 𝕄𝕒𝕤𝕥𝕖𝕣 \n"
              f"`𝘪 𝙘𝙖𝙣'𝙩 Ðïê \n"
              f"`Always with you, my master ! \n"
-             f"`Mera sab kuch my owner :- Ritesh ❤️ \n"
+             f"`Mera sab kuch my owner :- Ritesh 🥂❤️ \n"
              f"==================================== \n"
              f"User 👨‍🚀: {DEFAULTUSER} \n"
              f"Maintainer 🏄‍♂️: @heyworld \n"
