@@ -231,9 +231,9 @@ async def amireallyalive(alive):
              f"`Always with you, my master ! \n"
              f"`Mera sab kuch my owner :- Ritesh❤️ \n"
              f"==================================== \n"
-             f"User 👨‍🚀: {DEFAULTUSER} \n"
-             f"Maintainer 🏄‍♂️: @heyworld \n"
-             f"Bot Uptime 🕒: {uptime} \n"
+             f"`User 👨‍🚀`: {DEFAULTUSER} \n"
+             f"`Maintainer 🏄‍♂️`: @heyworld \n"
+             f"`Bot Uptime ⏱️`: {uptime} \n"
              f"====================================\n")
     if ALIVE_LOGO:
         try:
